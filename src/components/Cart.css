@@ -1,0 +1,39 @@
+body{
+    font-family: 'Calibri';
+    font-size: 20px;
+}
+
+input, button{
+    background-color: bisque;
+    border: none;
+    border-radius: 5px;
+    height: 20px;
+    width: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+button{
+    background-color: tan;
+    height: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.checkbox-label{
+    display: flex;
+}
+
+.checkbox{
+    position: relative;
+    right: 140px;
+}
+
+p{
+    display: inline;
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    position: relative;
+    bottom: -2px;
+}
